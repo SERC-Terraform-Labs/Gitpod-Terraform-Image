@@ -1,5 +1,4 @@
-image:
-  file: Dockerfile
+image: ghcr.io/serc-terraform-labs/gitpod-terraform-image:full
 
 vscode:
   extensions:
