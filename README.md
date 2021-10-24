@@ -9,7 +9,7 @@ Custom Gitpod Docker image with Terraform and cloud tools installed.
 Add the following to `.gitpod.yml` settings file.
 
 ```
-image: ghcr.io/SERC-Terraform-Labs/Gitpod-Terraform-Image:full
+image: ghcr.io/serc-terraform-labs/gitpod-terraform-image:full
 ```
 
 ## Tags
