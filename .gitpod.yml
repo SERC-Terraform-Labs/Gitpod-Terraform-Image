@@ -1,0 +1,10 @@
+image:
+  file: Dockerfile
+
+vscode:
+  extensions:
+    - hashicorp.terraform
+    - github.vscode-pull-request-github
+    - ms-azuretools.vscode-docker
+    - amazonwebservices.aws-toolkit-vscode
+    - ms-vscode.vscode-node-azure-pack
