@@ -1,7 +1,7 @@
 FROM gitpod/workspace-full
 
 # Install Terrform CLI
-RUN curl "https://releases.hashicorp.com/terraform/1.0.9/terraform_1.0.9_linux_amd64.zip" -o "terraform.zip" \
+RUN curl "https://releases.hashicorp.com/terraform/1.3.4/terraform_1.3.4_linux_amd64.zip" -o "terraform.zip" \
     && unzip terraform.zip \
     && sudo mv ./terraform /usr/local/bin/ \
     && rm terraform.zip
